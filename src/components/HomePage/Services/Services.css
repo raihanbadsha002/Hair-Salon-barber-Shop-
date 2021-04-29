@@ -1,0 +1,11 @@
+.service__hover{
+    cursor: pointer;
+}
+.service__hover img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+   
+.service__hover:hover img {
+    transform: scale(0.9);
+}

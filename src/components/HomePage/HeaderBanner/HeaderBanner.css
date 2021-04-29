@@ -1,0 +1,25 @@
+.banner__section{
+    height:640px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url(../../../images/hair-bg.jpg);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+}
+@media (max-width: 575.98px) { 
+    .banner__section{
+        height:440px;
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url(../../../images/hair-bg.jpg);
+        background-size: cover; 
+        background-position: center;
+        background-repeat: no-repeat;  
+        background-attachment: fixed;
+    }
+    .banner__section h1{
+        font-size: 2.4rem !important;
+    }
+    .banner__section p{
+        font-size: .8rem !important;
+    }
+    
+ }
