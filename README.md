@@ -25,16 +25,28 @@ website will show as a customer review.
  👉   "@fortawesome/fontawesome-svg-core": "^1.2.35",
  
  👉   "@fortawesome/free-brands-svg-icons": "^5.15.3",
+ 
  👉   "@fortawesome/free-regular-svg-icons": "^5.15.3",
+ 
  👉   "@fortawesome/free-solid-svg-icons": "^5.15.3",
+ 
  👉   "@fortawesome/react-fontawesome": "^0.1.14",
+ 
  👉   "@stripe/react-stripe-js": "^1.4.0",
+ 
  👉   "@stripe/stripe-js": "^1.13.2",
+ 
  👉   "axios": "^0.21.1",
+ 
  👉   "bootstrap": "^4.6.0",
+ 
  👉   "firebase": "^8.4.1",
+ 
  👉   "jwt-decode": "^3.1.2",
+ 
  👉   "react": "^17.0.2",
+ 
  👉   "react-dom": "^17.0.2",
+ 
  👉   "react-hook-form": "^7.0.7",
 
